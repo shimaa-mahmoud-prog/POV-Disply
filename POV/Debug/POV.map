@@ -1,0 +1,890 @@
+Archive member included because of file (symbol)
+
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                              ./APP.o (__mulsi3)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                              ./TIMER_PROGRAM.o (__divmodhi4)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              ./APP.o (__udivmodsi4)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                              ./LCD_program.o (__divmodsi4)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./APP.o (__do_copy_data)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./APP.o (__do_clear_bss)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./APP.o (__fixunssfsi)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./APP.o (__mulsf3)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                              ./APP.o (__divsf3)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./APP.o (__gtsf2)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./APP.o (__ltsf2)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                              ./APP.o (__floatunsisf)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                              g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o) (__clzsi2)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                              g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o) (__clz_tab)
+
+Allocating common symbols
+Common symbol       size              file
+
+pf2_OCR             0x2               ./TIMER_PROGRAM.o
+pf1_OV              0x2               ./TIMER_PROGRAM.o
+pf_EXT2             0x2               ./EXTERNAL_INTERRUPT.o
+pf1_OCRB            0x2               ./TIMER_PROGRAM.o
+pf1_OCRA            0x2               ./TIMER_PROGRAM.o
+pf_EXT1             0x2               ./EXTERNAL_INTERRUPT.o
+pf2_OV              0x2               ./TIMER_PROGRAM.o
+pf_EXT0             0x2               ./EXTERNAL_INTERRUPT.o
+pf0_OCR             0x2               ./TIMER_PROGRAM.o
+pf1_ICU             0x2               ./TIMER_PROGRAM.o
+pf0_OV              0x2               ./TIMER_PROGRAM.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./APP.o
+LOAD ./DIO_program.o
+LOAD ./EXTERNAL_INTERRUPT.o
+LOAD ./IR_SENSOR.o
+LOAD ./LCD_program.o
+LOAD ./TIMER_PROGRAM.o
+LOAD ./led_program.o
+LOAD ./main.o
+LOAD g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x375e
+ *(.vectors)
+ .vectors       0x00000000       0x54 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_15
+                0x0000008e                __vector_14
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./APP.o
+ .text          0x00000092        0x0 ./DIO_program.o
+ .text          0x00000092        0x0 ./EXTERNAL_INTERRUPT.o
+ .text          0x00000092        0x0 ./IR_SENSOR.o
+ .text          0x00000092        0x0 ./LCD_program.o
+ .text          0x00000092        0x0 ./TIMER_PROGRAM.o
+ .text          0x00000092        0x0 ./led_program.o
+ .text          0x00000092        0x0 ./main.o
+ .text          0x00000092        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000092        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000092        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000092        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000092        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0x58 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000092                __fixunssfsi
+ .text          0x000000ea      0x354 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000382                __subsf3
+                0x000003e4                __addsf3
+ .text          0x0000043e      0x1f4 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000043e                __mulsf3
+ .text          0x00000632      0x158 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                0x00000632                __divsf3
+ .text          0x0000078a       0x60 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x0000078a                __gtsf2
+ .text          0x000007ea       0x60 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x000007ea                __gesf2
+ .text          0x0000084a       0x60 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x0000084a                __ltsf2
+ .text          0x000008aa       0xa8 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x000008aa                __fixsfsi
+ .text          0x00000952        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000952       0xf2 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                0x00000952                __floatunsisf
+ .text          0x00000a44        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000a44        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000a44        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000a44       0x9e g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                0x00000a44                __clzsi2
+ .text          0x00000ae2      0x1aa g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x00000ae2                __pack_f
+ .text          0x00000c8c       0xf0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x00000c8c                __unpack_f
+ .text          0x00000d7c       0xb2 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000d7c                __fpcmp_parts_f
+ .text          0x00000e2e        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x00000e2e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.app_init
+                0x00000e2e       0x7c ./APP.o
+                0x00000e2e                app_init
+ .text.APP_MAIN
+                0x00000eaa      0x4b2 ./APP.o
+                0x00000eaa                APP_MAIN
+ .text.EXT_IR_Interrupt
+                0x0000135c       0x7c ./APP.o
+                0x0000135c                EXT_IR_Interrupt
+ .text.TIM_OvInterrupt
+                0x000013d8       0x34 ./APP.o
+                0x000013d8                TIM_OvInterrupt
+ .text.DIO_VoidsetPinDirection
+                0x0000140c      0x210 ./DIO_program.o
+                0x0000140c                DIO_VoidsetPinDirection
+ .text.DIO_VoidsetPinValue
+                0x0000161c      0x210 ./DIO_program.o
+                0x0000161c                DIO_VoidsetPinValue
+ .text.DIO_u8GetPinValue
+                0x0000182c      0x10e ./DIO_program.o
+                0x0000182c                DIO_u8GetPinValue
+ .text.DIO_VoidsetPortDirection
+                0x0000193a       0x88 ./DIO_program.o
+                0x0000193a                DIO_VoidsetPortDirection
+ .text.DIO_VoidsetPortValue
+                0x000019c2       0x88 ./DIO_program.o
+                0x000019c2                DIO_VoidsetPortValue
+ .text.__vector_1
+                0x00001a4a       0x5a ./EXTERNAL_INTERRUPT.o
+                0x00001a4a                __vector_1
+ .text.__vector_2
+                0x00001aa4       0x5a ./EXTERNAL_INTERRUPT.o
+                0x00001aa4                __vector_2
+ .text.__vector_3
+                0x00001afe       0x5a ./EXTERNAL_INTERRUPT.o
+                0x00001afe                __vector_3
+ .text.EXT_VidInit
+                0x00001b58      0x2aa ./EXTERNAL_INTERRUPT.o
+                0x00001b58                EXT_VidInit
+ .text.EXT_VidDisableInterrupt
+                0x00001e02       0x6e ./EXTERNAL_INTERRUPT.o
+                0x00001e02                EXT_VidDisableInterrupt
+ .text.EXT_U8ReadFLag
+                0x00001e70       0x78 ./EXTERNAL_INTERRUPT.o
+                0x00001e70                EXT_U8ReadFLag
+ .text.EXT_VidClearFlag
+                0x00001ee8       0x6e ./EXTERNAL_INTERRUPT.o
+                0x00001ee8                EXT_VidClearFlag
+ .text.set_callBack0
+                0x00001f56       0x24 ./EXTERNAL_INTERRUPT.o
+                0x00001f56                set_callBack0
+ .text.set_callBack1
+                0x00001f7a       0x24 ./EXTERNAL_INTERRUPT.o
+                0x00001f7a                set_callBack1
+ .text.set_callBack2
+                0x00001f9e       0x24 ./EXTERNAL_INTERRUPT.o
+                0x00001f9e                set_callBack2
+ .text.IR_Void_INIT
+                0x00001fc2       0x18 ./IR_SENSOR.o
+                0x00001fc2                IR_Void_INIT
+ .text.IR_u8_ReadIrOut
+                0x00001fda       0x1c ./IR_SENSOR.o
+                0x00001fda                IR_u8_ReadIrOut
+ .text.LCD_voidInit
+                0x00001ff6      0x3de ./LCD_program.o
+                0x00001ff6                LCD_voidInit
+ .text.LCD_sendcmd
+                0x000023d4      0x13c ./LCD_program.o
+                0x000023d4                LCD_sendcmd
+ .text.LCD_WRITEdata
+                0x00002510      0x13c ./LCD_program.o
+                0x00002510                LCD_WRITEdata
+ .text.LCD_WRITEstring
+                0x0000264c       0x52 ./LCD_program.o
+                0x0000264c                LCD_WRITEstring
+ .text.LCD_goto
+                0x0000269e       0x4c ./LCD_program.o
+                0x0000269e                LCD_goto
+ .text.LCD_Void_control_LCD
+                0x000026ea      0x146 ./LCD_program.o
+                0x000026ea                LCD_Void_control_LCD
+ .text.LCD_WRITE_NUM
+                0x00002830       0xa8 ./LCD_program.o
+                0x00002830                LCD_WRITE_NUM
+ .text.LCD_DIGIT
+                0x000028d8       0x1c ./LCD_program.o
+                0x000028d8                LCD_DIGIT
+ .text.REVERSE_NUM
+                0x000028f4      0x136 ./LCD_program.o
+                0x000028f4                REVERSE_NUM
+ .text.__vector_11
+                0x00002a2a       0x5a ./TIMER_PROGRAM.o
+                0x00002a2a                __vector_11
+ .text.__vector_10
+                0x00002a84       0x5a ./TIMER_PROGRAM.o
+                0x00002a84                __vector_10
+ .text.__vector_9
+                0x00002ade       0x5a ./TIMER_PROGRAM.o
+                0x00002ade                __vector_9
+ .text.__vector_8
+                0x00002b38       0x5a ./TIMER_PROGRAM.o
+                0x00002b38                __vector_8
+ .text.__vector_7
+                0x00002b92       0x5a ./TIMER_PROGRAM.o
+                0x00002b92                __vector_7
+ .text.__vector_6
+                0x00002bec       0x5a ./TIMER_PROGRAM.o
+                0x00002bec                __vector_6
+ .text.__vector_5
+                0x00002c46       0x5a ./TIMER_PROGRAM.o
+                0x00002c46                __vector_5
+ .text.__vector_4
+                0x00002ca0       0x5a ./TIMER_PROGRAM.o
+                0x00002ca0                __vector_4
+ .text.TIMER_INIT
+                0x00002cfa      0x410 ./TIMER_PROGRAM.o
+                0x00002cfa                TIMER_INIT
+ .text.TIMER_Void_DutyCycle
+                0x0000310a       0xa4 ./TIMER_PROGRAM.o
+                0x0000310a                TIMER_Void_DutyCycle
+ .text.TIM0_U8_ReadTCNTReg
+                0x000031ae       0x14 ./TIMER_PROGRAM.o
+                0x000031ae                TIM0_U8_ReadTCNTReg
+ .text.TIM_COUNTER_Void_OFF
+                0x000031c2       0x2c ./TIMER_PROGRAM.o
+                0x000031c2                TIM_COUNTER_Void_OFF
+ .text.TIM0_OV_callBack
+                0x000031ee       0x24 ./TIMER_PROGRAM.o
+                0x000031ee                TIM0_OV_callBack
+ .text.TIM0_OCR_callBack
+                0x00003212       0x24 ./TIMER_PROGRAM.o
+                0x00003212                TIM0_OCR_callBack
+ .text.TIM1_OV_callBack
+                0x00003236       0x24 ./TIMER_PROGRAM.o
+                0x00003236                TIM1_OV_callBack
+ .text.TIM1_OCRA_callBack
+                0x0000325a       0x24 ./TIMER_PROGRAM.o
+                0x0000325a                TIM1_OCRA_callBack
+ .text.TIM1_OCRB_callBack
+                0x0000327e       0x24 ./TIMER_PROGRAM.o
+                0x0000327e                TIM1_OCRB_callBack
+ .text.TIM1_ICU_callBack
+                0x000032a2       0x24 ./TIMER_PROGRAM.o
+                0x000032a2                TIM1_ICU_callBack
+ .text.TIM2_OV_callBack
+                0x000032c6       0x24 ./TIMER_PROGRAM.o
+                0x000032c6                TIM2_OV_callBack
+ .text.TIM2_OCR_callBack
+                0x000032ea       0x24 ./TIMER_PROGRAM.o
+                0x000032ea                TIM2_OCR_callBack
+ .text.LEDS_void_PortINIT
+                0x0000330e       0x1c ./led_program.o
+                0x0000330e                LEDS_void_PortINIT
+ .text.LEDS_VOID_PortValue
+                0x0000332a       0x20 ./led_program.o
+                0x0000332a                LEDS_VOID_PortValue
+ .text.LED_VID_PinInit
+                0x0000334a       0x22 ./led_program.o
+                0x0000334a                LED_VID_PinInit
+ .text.LED_ON   0x0000336c       0x22 ./led_program.o
+                0x0000336c                LED_ON
+ .text.LED_OFF  0x0000338e       0x22 ./led_program.o
+                0x0000338e                LED_OFF
+ .text.LED_TOGGLE
+                0x000033b0       0xfa ./led_program.o
+                0x000033b0                LED_TOGGLE
+ .text.main     0x000034aa       0x1a ./main.o
+                0x000034aa                main
+ .text.f        0x000034c4      0x122 ./main.o
+                0x000034c4                f
+ .text.libgcc   0x000035e6       0x3e g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                0x000035e6                __mulsi3
+ .text.libgcc   0x00003624       0x26 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                0x00003624                __divmodhi4
+                0x00003624                _div
+ .text.libgcc   0x0000364a       0x44 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x0000364a                __udivmodsi4
+ .text.libgcc   0x0000368e       0x36 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                0x0000368e                __divmodsi4
+ .text.libgcc   0x000036c4        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x000036c4        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x000036c4        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x000036c4       0x28 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x000036c4                __udivmodhi4
+ .text.libgcc   0x000036ec       0x38 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x000036ec                __prologue_saves__
+ .text.libgcc   0x00003724       0x36 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x00003724                __epilogue_restores__
+                0x0000375a                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000375a        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x0000375a                exit
+                0x0000375a                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000375a        0x4 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000375e                _etext = .
+
+.data           0x00800060      0x272 load address 0x0000375e
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x4 ./APP.o
+ .data          0x00800064        0x0 ./DIO_program.o
+ .data          0x00800064        0x0 ./EXTERNAL_INTERRUPT.o
+ .data          0x00800064        0x0 ./IR_SENSOR.o
+ .data          0x00800064        0xd ./LCD_program.o
+ .data          0x00800071        0x0 ./TIMER_PROGRAM.o
+ .data          0x00800071        0x0 ./led_program.o
+ .data          0x00800071        0x0 ./main.o
+ .data          0x00800071        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00800071        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00800071        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00800071        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00800071        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00800071        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800071        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800071        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x00800071        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00800071        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x00800071        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .data          0x00800071        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x00800071        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x00800071        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x00800071        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x00800071        0x8 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x00800071                __thenan_sf
+ .data          0x00800079        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .data          0x00800079        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800079        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00800079        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800079        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .data          0x00800079        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00800079        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00800079        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00800079      0x100 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x00800079                __clz_tab
+ *(.data*)
+ .data.ALPH     0x00800179      0x156 ./APP.o
+                0x00800179                ALPH
+ .data.word     0x008002cf        0x2 ./APP.o
+                0x008002cf                word
+ .data.COPY_DDRAM_INIT_AC.1386
+                0x008002d1        0x1 ./LCD_program.o
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x008002d2                . = ALIGN (0x2)
+                0x008002d2                _edata = .
+                0x008002d2                PROVIDE (__data_end, .)
+
+.bss            0x008002d2       0x21
+                0x008002d2                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x008002d2        0x0 ./APP.o
+ .bss           0x008002d2        0x0 ./DIO_program.o
+ .bss           0x008002d2        0x0 ./EXTERNAL_INTERRUPT.o
+ .bss           0x008002d2        0x0 ./IR_SENSOR.o
+ .bss           0x008002d2        0x0 ./LCD_program.o
+ .bss           0x008002d2        0x0 ./TIMER_PROGRAM.o
+ .bss           0x008002d2        0x0 ./led_program.o
+ .bss           0x008002d2        0x0 ./main.o
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x008002d2        0x0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.bss*)
+ .bss.ov_count  0x008002d2        0x4 ./APP.o
+ .bss.N_tcnt    0x008002d6        0x1 ./APP.o
+                0x008002d6                N_tcnt
+ .bss.flag      0x008002d7        0x1 ./APP.o
+ .bss.N_ov      0x008002d8        0x4 ./APP.o
+                0x008002d8                N_ov
+ .bss.n.1330    0x008002dc        0x1 ./main.o
+ *(COMMON)
+ COMMON         0x008002dd        0x6 ./EXTERNAL_INTERRUPT.o
+                0x008002dd                pf_EXT2
+                0x008002df                pf_EXT1
+                0x008002e1                pf_EXT0
+ COMMON         0x008002e3       0x10 ./TIMER_PROGRAM.o
+                0x008002e3                pf2_OCR
+                0x008002e5                pf1_OV
+                0x008002e7                pf1_OCRB
+                0x008002e9                pf1_OCRA
+                0x008002eb                pf2_OV
+                0x008002ed                pf0_OCR
+                0x008002ef                pf1_ICU
+                0x008002f1                pf0_OV
+                0x008002f3                PROVIDE (__bss_end, .)
+                0x0000375e                __data_load_start = LOADADDR (.data)
+                0x000039d0                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008002f3        0x0
+                0x008002f3                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008002f3                PROVIDE (__noinit_end, .)
+                0x008002f3                _end = .
+                0x008002f3                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x2b8c
+ *(.stab)
+ .stab          0x00000000      0x930 ./APP.o
+ .stab          0x00000930      0x474 ./DIO_program.o
+                                0x4ec (size before relaxing)
+ .stab          0x00000da4      0x588 ./EXTERNAL_INTERRUPT.o
+                                0x600 (size before relaxing)
+ .stab          0x0000132c      0x174 ./IR_SENSOR.o
+                                0x1ec (size before relaxing)
+ .stab          0x000014a0      0xa98 ./LCD_program.o
+                                0xc9c (size before relaxing)
+ .stab          0x00001f38      0x708 ./TIMER_PROGRAM.o
+                                0x7a4 (size before relaxing)
+ .stab          0x00002640      0x2dc ./led_program.o
+                                0x4e0 (size before relaxing)
+ .stab          0x0000291c      0x270 ./main.o
+                                0x474 (size before relaxing)
+
+.stabstr        0x00000000     0x11c6
+ *(.stabstr)
+ .stabstr       0x00000000     0x11c6 ./APP.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000080       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000100       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x00000120       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000140       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000160       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000180       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x1f2
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1f g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000008d       0x1e g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x000000ab       0x1e g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000c9       0x1e g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000e7       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00000107       0x22 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x00000129       0x24 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_pubnames
+                0x0000014d       0x1f g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x0000016c       0x1f g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x0000018b       0x21 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x000001ac       0x26 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x000001d2       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x240b
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x3fc g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_info    0x00000dac      0x27f g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x0000102b      0x27f g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x000012aa      0x27f g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x00001529      0x2b0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000017d9      0x12c g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001905      0x206 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x00001b0b      0x117 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_info    0x00001c22      0x2df g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00001f01      0x251 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00002152      0x210 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x00002362       0xa9 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x1386
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x216 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000678      0x15a g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000007d2      0x15a g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x0000092c      0x15a g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000a86      0x17f g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000c05       0xad g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000cb2      0x157 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x00000e09       0xc4 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00000ecd      0x1c0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x0000108d      0x154 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x000011e1      0x13b g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x0000131c       0x6a g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_line     0x00000000     0x11d6
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f      0x1d5 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_line    0x00000764       0xd3 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000837       0xd3 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x0000090a       0xd3 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x000009dd      0x109 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000ae6       0x90 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000b76      0x133 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x00000ca9       0xa5 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_line    0x00000d4e      0x18a g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000ed8      0x14b g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00001023      0x137 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x0000115a       0x7c g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0x1c0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_frame   0x000000a0       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000c0       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000e0       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000100       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000120       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x00000140       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000160       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000180       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x000001a0       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x2f6
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233       0x35 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00000268        0x8 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000270        0x8 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000278        0x8 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000280        0xa g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x0000028a       0x21 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                                0x177 (size before relaxing)
+ .debug_str     0x000002ab       0x20 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                                0x111 (size before relaxing)
+ .debug_str     0x000002cb       0x10 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x000002db        0xb g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x000002e6       0x10 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+ .debug_str     0x00000000       0xf4 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_loc      0x00000000      0x96e
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0xc0 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_loc     0x00000522       0x3c g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000055e       0x3c g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x0000059a       0x3c g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x000005d6       0x7e g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000654       0x4c g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x000006a0       0x94 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_loc     0x00000734      0x13e g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00000872       0xac g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x0000091e       0x50 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(POV.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 g:/embedded_system_iti/avr blockchain/01- sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
